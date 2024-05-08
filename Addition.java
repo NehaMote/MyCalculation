@@ -1,5 +1,5 @@
 public class Addition{
-   void add(){
+   void add1(){
       int a=10;
       int b=20;
       int c=a+b;
